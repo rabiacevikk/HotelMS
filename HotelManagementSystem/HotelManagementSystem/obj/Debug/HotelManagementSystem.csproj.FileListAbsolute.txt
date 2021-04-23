@@ -1,0 +1,11 @@
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.FrmDashboard.resources
+C:\Users\rabia\OneDrive\Masaüstü\Hotel Management System\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.FrmLogin.resources
